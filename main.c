@@ -1,8 +1,8 @@
 /*
- * Calculate ideal tracker angle (without any shade avoidance) every 2 minutes over the course of 1 year
- * and write results to a CSV file.
+ * Calculate ideal tracker angle (without any shade avoidance) every minute over the course of 1 year
+ * and write results for each location to a CSV file.  A summary file is also created.
  *
- * Also answer the question: "what percent of the time does a tracker spend at +/- 5 degrees?"
+ * Finally, we answer the question: "what percent of the time does a tracker spend at +/- 5 degrees?"
  * 
  * Jason Alderman
  * 04SEP2017
