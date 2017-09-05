@@ -5,8 +5,8 @@ A quick program and R script to answer the question:
 
 ## Compile
 
-    `make clean`
-    `make
+    make clean
+    make
 
 ## Run
 
