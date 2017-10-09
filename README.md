@@ -1,7 +1,7 @@
 # Tracker Angle Analysis
 
 A quick program and R script to answer the question:
-"What percent of time do trackers spend within the range of +/- 5 degrees?"
+"What percent of time do single axis soalr trackers spend within the range of +/- 5 degrees or horizontal?"
 
 ## Compile
 
